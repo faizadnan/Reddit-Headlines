@@ -1,0 +1,8 @@
+.main{
+    width: 100%;
+    max-width: 1024px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(46, 70, 70);
+    margin: 0 auto;
+}

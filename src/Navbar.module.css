@@ -1,0 +1,41 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: darkslateblue;
+    /* border: 2px solid red; */
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.title span{
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 32px;
+    cursor: pointer;
+}
+
+.list_div {
+    /* border: 1px solid black; */
+
+}
+
+ul {
+    display: flex;
+    gap: 40px;
+    font-size: 20px;
+    list-style: none;
+    color: white;
+    font-weight: 800;
+}
+
+ul li {
+    cursor: pointer;
+}
