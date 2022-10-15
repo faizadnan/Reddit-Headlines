@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Reddit_Reader/static/css/main.aef80c37.chunk.css",
-    "main.js": "/Reddit_Reader/static/js/main.2eb21b6c.chunk.js",
-    "main.js.map": "/Reddit_Reader/static/js/main.2eb21b6c.chunk.js.map",
-    "runtime-main.js": "/Reddit_Reader/static/js/runtime-main.c4814bf7.js",
-    "runtime-main.js.map": "/Reddit_Reader/static/js/runtime-main.c4814bf7.js.map",
-    "static/js/2.814d0aeb.chunk.js": "/Reddit_Reader/static/js/2.814d0aeb.chunk.js",
-    "static/js/2.814d0aeb.chunk.js.map": "/Reddit_Reader/static/js/2.814d0aeb.chunk.js.map",
-    "index.html": "/Reddit_Reader/index.html",
-    "static/css/main.aef80c37.chunk.css.map": "/Reddit_Reader/static/css/main.aef80c37.chunk.css.map",
-    "static/js/2.814d0aeb.chunk.js.LICENSE.txt": "/Reddit_Reader/static/js/2.814d0aeb.chunk.js.LICENSE.txt"
+    "main.css": "/Reddit-Headlines/static/css/main.aef80c37.chunk.css",
+    "main.js": "/Reddit-Headlines/static/js/main.2eb21b6c.chunk.js",
+    "main.js.map": "/Reddit-Headlines/static/js/main.2eb21b6c.chunk.js.map",
+    "runtime-main.js": "/Reddit-Headlines/static/js/runtime-main.b2c768a8.js",
+    "runtime-main.js.map": "/Reddit-Headlines/static/js/runtime-main.b2c768a8.js.map",
+    "static/js/2.814d0aeb.chunk.js": "/Reddit-Headlines/static/js/2.814d0aeb.chunk.js",
+    "static/js/2.814d0aeb.chunk.js.map": "/Reddit-Headlines/static/js/2.814d0aeb.chunk.js.map",
+    "index.html": "/Reddit-Headlines/index.html",
+    "static/css/main.aef80c37.chunk.css.map": "/Reddit-Headlines/static/css/main.aef80c37.chunk.css.map",
+    "static/js/2.814d0aeb.chunk.js.LICENSE.txt": "/Reddit-Headlines/static/js/2.814d0aeb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4814bf7.js",
+    "static/js/runtime-main.b2c768a8.js",
     "static/js/2.814d0aeb.chunk.js",
     "static/css/main.aef80c37.chunk.css",
     "static/js/main.2eb21b6c.chunk.js"
